@@ -6,20 +6,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatroshan&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatroshan" /> </p>
 
-- 🌱 I’m currently learning  **Python.**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatroshan" alt="prabhatroshan" /></a> </p>
 
-- 💬 Ask me about  **C,Java,SQL**
+- 🌱 I’m currently learning **Python.**
 
-- 📫 How to reach me E-mail- **prabhat9546784170@gmail.com**
+- 👯 class of **2021**
 
-- 📄 Know about my experiences My Resume- [https://drive.google.com/file/d/1cYIHJQs3o0XYcDt6fVirZpwmyhYb9YzC/view?usp=drivesdk](https://drive.google.com/file/d/1cYIHJQs3o0XYcDt6fVirZpwmyhYb9YzC/view?usp=drivesdk)
+- 💬 Ask me about **C,Java,SQL**
+
+- 📫 How to reach me **prabhat9546784170@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cYIHJQs3o0XYcDt6fVirZpwmyhYb9YzC/view?usp=drivesdk](https://drive.google.com/file/d/1cYIHJQs3o0XYcDt6fVirZpwmyhYb9YzC/view?usp=drivesdk)
+
+- ⚡ Hobbies **Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhat-roshan-0709151a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhat-roshan-0709151a7/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabhatroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="prabhatroshan" height="30" width="40" /></a>
 <a href="https://instagram.com/prabhat_singh_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="prabhat_singh_5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/prabhatroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prabhatroshan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/http://www.hackerearth.com/@prabhat9546784170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="http://www.hackerearth.com/@prabhat9546784170" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prabhatroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="prabhatroshan" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@prabhat9546784170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@prabhat9546784170" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatroshan&show_icons=true&locale=en" alt="prabhatroshan" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatroshan&" alt="prabhatroshan" /></p>
 
