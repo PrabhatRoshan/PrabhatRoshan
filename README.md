@@ -1,20 +1,18 @@
 
 ![student-technology](https://user-images.githubusercontent.com/80385292/115465715-a25ab580-a24c-11eb-9e31-458e7e15aa9e.jpg)
 
-<h1 align="center"> Hi 👋, I am Prabhat Roshan</h1>
-
 <h1 align="center">Hi 👋, I'm Prabhat Roshan</h1>
 <h3 align="center">IT Sophomore who loves exploring new field and empowering others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatroshan&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatroshan" /> </p>
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning  **Python.**
 
-- 💬 Ask me about **C,Java,SQL**
+- 💬 Ask me about  **C,Java,SQL**
 
-- 📫 How to reach me **prabhat9546784170@gmail.com**
+- 📫 How to reach me E-mail- **prabhat9546784170@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cYIHJQs3o0XYcDt6fVirZpwmyhYb9YzC/view?usp=drivesdk](https://drive.google.com/file/d/1cYIHJQs3o0XYcDt6fVirZpwmyhYb9YzC/view?usp=drivesdk)
+- 📄 Know about my experiences My Resume- [https://drive.google.com/file/d/1cYIHJQs3o0XYcDt6fVirZpwmyhYb9YzC/view?usp=drivesdk](https://drive.google.com/file/d/1cYIHJQs3o0XYcDt6fVirZpwmyhYb9YzC/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
