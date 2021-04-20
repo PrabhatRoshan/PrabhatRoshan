@@ -1,9 +1,9 @@
 
 ![student-technology](https://user-images.githubusercontent.com/80385292/115465715-a25ab580-a24c-11eb-9e31-458e7e15aa9e.jpg)
 
-###                              Hi 👋, I am Prabhat Roshan
+   ###  Hi 👋, I am Prabhat Roshan
 
-                                A boy trying to figure out stuff!!
+   A boy trying to figure out stuff!!
 
 - 🔭 I’m currently working as a part of StepIn program at L&T Technology Services
 - 🌱 class of 2021
