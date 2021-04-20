@@ -4,6 +4,6 @@
 - 🌱 class of 2021
 - 👯 I am a 22 years old developer....
 - 💬 Ask me about any tech related stuff
-- 📫 You can reach me [Email id](prabhat9546784170@gmail.com)
+- 📫 You can reach me [Email id](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 - 😄 Pronouns: He/His
 - ⚡ I love to play Cricket
