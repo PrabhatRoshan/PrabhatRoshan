@@ -7,4 +7,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ I love to play Cricket
--->
