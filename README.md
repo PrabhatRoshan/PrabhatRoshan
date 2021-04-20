@@ -1,4 +1,4 @@
-![00ld10ffihc61](https://user-images.githubusercontent.com/80385292/115465282-fdd87380-a24b-11eb-875b-197fd59f64f2.png)
+
 
 ### Hi there, I am Prabhat 👋
 
